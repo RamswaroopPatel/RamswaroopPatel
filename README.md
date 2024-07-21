@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RamswaroopPatel
 - 👀 I’m interested in Web dev,Robotics,Cyber security
-- 🌱 I’m currently focusing on my School Studies
-- 💞️ I’m looking for an person with such interests.
+- 🌱 I’m currently focusing on my Tech
+- 💞️ Also i am interested in gaming.
 - 📫 How to reach me :
 -                  pychunk.gov@gmail.com
 - 😄 Pronouns: He/Him
