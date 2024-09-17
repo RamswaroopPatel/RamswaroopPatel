@@ -2,9 +2,8 @@
 - MAIN GITHUB (https://www.github.com/ramswaroop03)
 - 👀 I’m interested in Web dev,Robotics,Cyber security
 - 🌱 I’m currently focusing on my Tech
-- ~B.Tech CSE at
-- <br>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" width="40" />
+- ~B.Tech CSE at<br>
+<img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" />
 - 💞️ Also i am interested in gaming.
 - 📫 How to reach me :
 -                  pychunk.gov@gmail.com
