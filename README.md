@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @RamswaroopPatel
-- MAIN GITHUB (https://www.github.com/ramswaroop03)
-- 👀 I’m interested in Web dev,Robotics,Cyber security
+- 👋 Hi, I’m @RamswaroopPatel<br>
+- 👀 I’m interested in Web dev,Robotics,Cyber security<br>
 - 🌱 I’m currently focusing on my Tech
-- ~B.Tech CSE at <img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" />
-- 💞️ Also i am interested in gaming.
+
+   <h3>STUDIES :</h3>
+   <h4>
+     ~B.Tech CSE at <img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" /></h4><hr>
+   <h3>ORGANISATION:</h3>
+   <h4> 
+    FOUNDER:  <a href="https://instagram.com/pychunk" target="blank"><img align="center" src="https://i.ibb.co/W0TpBvR/Pychunk-logo-v1-0.png" alt="PYCHUNK" height="30" width="40" /></a></h4><hr>
+- 💞️ Also i am interested in gaming.<br><br>
 - 📫 How to reach me :
 -                  pychunk.gov@gmail.com
 - 😄 Pronouns: He/Him
@@ -17,10 +22,26 @@
 <a href="https://discord.com/channels/@me/1218409576706211953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramswarooppatel" height="30" width="40"</a>
 <a href="https://www.facebook.com/profile.php?id=61556208497075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramswarooppatell" height="30" width="40" /></a>
 <a href="https://www.threads.net/@ramswaroop03" target="blank"><img align="center" src="https://s3-alpha.figma.com/hub/file/3775071741/a30ea4ff-a952-4f88-aaf5-e732b7984015-cover.png" alt="ramswaroop03" height="30" width="40" /></a>
-
 </p>
+<hr>
+  <h3 align="left">OS :</h3>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" height="30" /> LINUX</p>
+<hr>
+  <h6>
+<h3 align="left">Skills:</h3>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML" height="30" /> HTML</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30"/> CSS </p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Javascript" height="30" /> JS</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" alt="C" height="30" /> C</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" alt="C++" height="30" /> C++</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Python" height="30" /> PYTHON</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mariadb.svg" alt="MariaDB" height="30" /> MariaDB</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mySQL" height="30" /> mySQL</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/sqlite.svg" alt="SQLite" height="30" /> SQLite</p>
+<p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="ARDUINO" height="30" /> ARDUINO</p>
 
-<!---
+</h6>
+<!--
 RamswaroopPatel/RamswaroopPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
