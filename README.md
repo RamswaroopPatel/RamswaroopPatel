@@ -4,7 +4,7 @@
 
    <h3>STUDIES :</h3>
    <h4>
-     ~B.Tech CSE at <img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" /></h4><hr>
+     ~B.Tech CSE at <img align="center" src="https://upload.wikimedia.org/wikipedia/en/f/fe/Srmseal.png" alt="SRM UNIVERSITY" height="30" /> SRM UNIVERSITY</h4><hr>
    <h3>ORGANISATION:</h3>
    <h4> 
     FOUNDER:  <a href="https://instagram.com/pychunk" target="blank"><img align="center" src="https://i.ibb.co/W0TpBvR/Pychunk-logo-v1-0.png" alt="PYCHUNK" height="30" width="40" /></a></h4><hr>
@@ -27,7 +27,7 @@
   <h3 align="left">OS :</h3>
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/linux.svg" alt="linux" height="30" /> LINUX</p>
 <hr>
-  <h6>
+<p align="left">
 <h3 align="left">Skills:</h3>
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="HTML" height="30" /> HTML</p>
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="css" height="30"/> CSS </p>
@@ -39,8 +39,7 @@
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mysql.svg" alt="mySQL" height="30" /> mySQL</p>
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/sqlite.svg" alt="SQLite" height="30" /> SQLite</p>
 <p>~<img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Other/arduino.svg" alt="ARDUINO" height="30" /> ARDUINO</p>
-
-</h6>
+</p>
 <!--
 RamswaroopPatel/RamswaroopPatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
