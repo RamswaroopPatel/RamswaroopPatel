@@ -21,7 +21,7 @@
 <a href="https://www.youtube.com/@ramswarooppatell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ramswarooppatell" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me/1218409576706211953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramswarooppatel" height="30" width="40"</a>
 <a href="https://www.facebook.com/profile.php?id=61556208497075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramswarooppatell" height="30" width="40" /></a>
-<a href="https://www.threads.net/@ramswaroop03" target="blank"><img align="center" src="https://s3-alpha.figma.com/hub/file/3775071741/a30ea4ff-a952-4f88-aaf5-e732b7984015-cover.png" alt="ramswaroop03" height="30" width="40" /></a>
+<a href="https://www.threads.net/@ramswaroop03" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/1024px-Threads_%28app%29.svg.png" alt="ramswaroop03" height="30" width="40" /></a>
 </p>
 <hr>
   <h3 align="left">OS :</h3>
